@@ -1,0 +1,11 @@
+Model Information:
+* title:	Broken Glass
+* source:	https://sketchfab.com/3d-models/broken-glass-d85f9be8fd3e4a10a8dd2886dac074c5
+* author:	Kirrek (https://sketchfab.com/Kirrek)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Broken Glass" (https://sketchfab.com/3d-models/broken-glass-d85f9be8fd3e4a10a8dd2886dac074c5) by Kirrek (https://sketchfab.com/Kirrek) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
